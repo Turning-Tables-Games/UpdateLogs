@@ -53,3 +53,59 @@ Image: 123384908315879
 
 ### Other
 - Slowed down Mega Hauler a little bit
+
+# Deeper Operations
+Version: 1.1.0
+Date: 11 Jul 2026
+Image: 123384908315879
+
+### Content
+- Look for a hidden code around the map!
+- Mine rework
+  - More layers present, with different durability stages, requiring you to upgrade your vehicle
+  - Mine terrain has received a little shake, should feel more like a mine now
+  - 2 new Legendary ores
+  - 1 new Mythical ore
+  - Legendary & Mythical ores now are more visible thanks to custom VFX
+  - Entrance lights up at night!
+- Vehicle  & Economy balancing
+  - New vehicle upgrading system
+  - 2 new Hauler vehicles
+  - 2 new Miner vehicles
+  - Increased task cash rewards
+  - Reduced shipment paycheck cash rewards
+  - Check out the shop for hints of next vehicle drops
+- Team UI changes
+  - Select teams by clicking the whole card now instead of the button
+  - Better console selection support
+  - Initial team selection now fades out full teams, hiding the button
+  - New players get auto-teamed when only one team is available
+- Prospector Bonus
+  - Joined the game for the first time? Enjoy a little bonus to ease your journey!
+- Added a next vehicle tracker UI
+- Added Pick Up Chain mechanic to Hauler vehicles
+  - Allows you to pick up ores instantly within a certain timeframe from the last action
+- All Cash Packs have been increased by 2.5x
+
+### Changes
+- Parking slots are now team-based, spawning closer to your target
+- Increased max distance to location waypoints
+- Increased pickaxe range 2 blocks -> 5 blocks
+- Increased collapse penalty max from 5,000 to 1,000,000
+- Reduced loading screen time
+- Reduced atmosphere density
+- Reduced MegaHauler size, now fits within the max mineable height provided by cash-bought vehicles
+- MegaHauler now specifies that it may not always fit in the mine, tunnels depend on other Miners.
+  - In the future, this vehicle will be able to act as middle-man for smaller vehicles so they don't have to get to the Refinery so often
+
+### Bug Fixes
+- Fixed getting cash with the Factory Director multiplier on other teams
+- Fixed existing memory leaks + minor issues
+- Fixed ores colliding with stairs
+- Fixed vehicle lateral grip issues
+- Fixed gantry flinging other packages when picking them up
+- Fixed fuel packages and ore packages colliding with each other
+- Fixed ore packages that have been submitted not getting cleared within the fuel conveyor area
+- Fixed vehicle console keybinds not working sometimes
+- Fixed teleporting out of the mine leaving ores in your cargo
+- Fixed teleporting out of the mine causing a vehicle respawn
