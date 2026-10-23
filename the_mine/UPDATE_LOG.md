@@ -1,3 +1,81 @@
+# Exotic Finds
+Version: 1.3.0
+Date: 23 Oct 2026
+Image: 132799394890434
+
+### Content
+- New intro cutscene, hear the legend of the Worldheart!
+- Added 22 new ores!
+  - 2 Common, 2 Uncommon, 3 Rare, 4 Epic, 5 Legendary and 4 Mythic ores
+  - New Exotic rarity, the rarest ores in the mine... good luck finding one
+- Added a minimap
+  - Shows your teammates, your vehicle, placed waypoints, dropped ores, fuel packages, in-game clock and coordinates
+- Added Tire Trails!
+  - 13 trails to collect within the vehicle shop (Customize -> Tire Trails)
+- Added Private Server Admin Panel
+  - Owners can whitelist up to 3 admins
+  - Kick, ban, unban, move players between teams, toggle team limits and send announcements
+  - CHEAT MODE!!!
+- Added Friend Boost
+  - Earn +10% cash for every friend in your server (max +30%)
+  - Click the boost on your HUD to invite your friends!
+- Added Team Shortage Bonus & Recommendation
+  - Haulers and Transporters earn up to +25% more when work is piling up for their team
+  - Team selection now shows which team has a shortage bonus
+  - New players get a recommended team
+- New HUD!
+- Added Update Log (you're reading it!)
+- New player rewards
+  - $7,000 signing bonus when you finish your first tutorial
+  - Prospector Bonus now lasts longer
+  - Come back the next day for a x2 Cash bonus!
+
+### Changes
+- Changed how ore discoveries are displayed for the user
+- Cash Packs, daily rewards and quest rewards now scale with your progression
+- Changed day/night duration, shipments leave more often
+- Receiving no cash now doesn't display a paycheck
+- Changed mine collapse to be less predictable, mine will last longer
+- Common ores now take half the space in your cargo
+- Lifter upgrades are 60% cheaper
+- Prospector, Friend and x2 bonuses now only apply to cash earned from ores and paychecks
+- Your estimated paycheck share now shows under the ship status
+- Shipment timer is now always visible
+- The Packager now shows how many more bars it needs before the next package
+- Hauler Chain Pickup now glows around the edges of your screen instead of showing a bar
+- Fuel tanks are now equipped as soon as you grab them
+- Logbook messages now name the ore you found, in its color
+- Location waypoints now only show for the teams that need them
+- Placing a Waypoint now has a 2 minute cooldown
+- Mining no longer vibrates your controller or phone, discovering a new ore does instead
+- Guide button moved to the HUD's top bar
+- Bugs & Feedback mailbox now works like the other menus
+- Index chances are now easier to read
+- Console UI improvements
+
+### Bug Fixes
+- Vehicles that spawn but can't be driven are now detected and respawned automatically
+- Fixed issue with ores not sliding properly on conveyors
+- Fixed uncashed paychecks getting lost when leaving the game
+- Fixed Bugs & Feedback saying your message was sent when it wasn't
+- Fixed popups repeating the action of a popup you declined
+- Fixed cash spent sound not playing
+- Fixed global leaderboards sometimes not updating
+- Fixed the "Drive" prompt staying on screen after getting in your vehicle
+- Fixed other teams' ore and package prompts getting in the way of the "Drive" prompt
+- Fixed the camera snapping in close to ores while unloading
+- Fixed the Transporter tutorial getting stuck on the refuel step
+- Fixed controls not coming back when switching devices with the Chat Wheel open
+- Fixed a rare error when equipping the pickaxe
+- Fixed mobile side menu getting stuck mid-animation
+- Fixed vehicle shop opening the wrong customize tab when switching quickly
+
+### Other
+- More accurate FPS counter
+- Faster loading when joining the game
+- Security fixes
+- Performance improvements
+
 # Balancing + QoL
 Version: 1.2.0
 Date: 20 Jul 2026
