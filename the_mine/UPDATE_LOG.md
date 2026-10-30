@@ -1,3 +1,34 @@
+# Gourd Rush
+Version: 1.4.0
+Date: 30 Oct 2026
+Image: 137726206193834
+
+### Halloween Event
+- The Gourd Rush is here! It runs until 6 November
+  - Pumpkins have popped up all over the map. Drive through them or jump into them to smash them for Candy
+  - New event ore: Pumpkinite! Mine it for +25 Candy
+  - Haulers and Transporters get 1-5 Candy for every Pumpkinite they deliver to the refinery or ship
+  - Spend your Candy on 3 new Tire Trails: Pumpkin, Ghost and Witchfire
+  - Limited Phantom trail available for Robux purchase during the event
+  - Click the pumpkin on your HUD to see more details!
+- The map got a spooky makeover
+
+### Changes
+- Refueling tutorial is now optional for Transporters
+- Team selection now always shows after the intro, with a recommended team for new players
+  - New players join the recommended team automatically after 15 seconds
+- Hauler and Transporter tutorials are now shorter
+- Popups now wait their turn instead of replacing each other
+- Dirt and Mud trails are now 15k and 50k respectively
+
+### Bug Fixes
+- Fixed the intro cutscene being skipped for many new players
+- Fixed sometimes not being put in your vehicle after it spawns
+- Fixed inventory slots sometimes disappearing after dragging an item
+
+### Other
+- Performance improvements
+
 # Exotic Finds
 Version: 1.3.0
 Date: 23 Oct 2026
