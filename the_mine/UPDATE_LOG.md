@@ -1,3 +1,17 @@
+# End of Halloween
+Version: 1.4.1
+Date: 06 Nov 2026
+Image: 137726206193834
+
+### End of Halloween!
+- All accumulated Candy points have been converted to Cash with a ratio of $100 for each point.
+
+### Changes
+- Removed the Halloween update
+
+### Bug Fixes
+- Fixed issues with onboarding and tutorials.
+
 # Gourd Rush
 Version: 1.4.0
 Date: 30 Oct 2026
